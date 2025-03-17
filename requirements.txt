@@ -1,4 +1,0 @@
-aiogram>=3.0.0
-pip install -U aiogram
-python-dotenv
-gunicorn  # (اختياري، يُستخدم في بعض الاستضافات)
