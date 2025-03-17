@@ -1,3 +1,0 @@
-aiogram
-python-dotenv
-gunicorn  # (اختياري، يُستخدم في بعض الاستضافات)
